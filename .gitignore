@@ -1,0 +1,6 @@
+*.pyc
+*.ckpt
+*.gz
+__pycache__
+simclr/data
+MNIST
